@@ -1,2 +1,2 @@
 # mi-repo
-nd
+nd mas ni menos
