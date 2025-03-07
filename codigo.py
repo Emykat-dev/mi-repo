@@ -1,4 +1,4 @@
-nombre = "Lucas"
+nombre = "Look"
 apellido = "Dalto"
 
 saludo =( "!hola "+ nombre +" "+ apellido + "!")
