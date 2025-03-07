@@ -1,2 +1,2 @@
-nombre = Cheto
+nombre = mia
 print ("hola "+ nombre)
