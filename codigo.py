@@ -1,5 +1,5 @@
-nombre = "Look at"
-apellido = "this"
+nombre = "Look "
+apellido = "at"
 
 saludo =( "!hola "+ nombre +" "+ apellido + "!")
 print (saludo)
